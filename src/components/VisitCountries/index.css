@@ -1,0 +1,26 @@
+.name {
+  color: #f1f5f9;
+}
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.hr-line {
+  border: 1px solid #334155;
+}
+.list {
+  list-style-type: none;
+}
+.text {
+  color: #f1f5f9;
+  font-size: 20px;
+}
+.button {
+  color: #f1f5f9;
+  background-color: #3b82f6;
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  font-size: 15px;
+}
